@@ -13,7 +13,8 @@
 
   	<style type="text/css">
   		body {
-  			background-color: #f0f0f0
+  			background-color: #f0f0f0;
+			margin : 0px;
   		}
 
   		a, ul {
